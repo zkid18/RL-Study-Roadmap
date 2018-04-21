@@ -1,4 +1,3 @@
-![Header image](headerImage.png)
 # 🚀 RL Study Roadmap 
 Roadmap to learn Renfircement Learning in 2018.
 
@@ -15,9 +14,6 @@ The roadmap is available on Miendmeister[https://mm.tt/1048552502?t=9TrRDyiRPv] 
 ## 🤝 How to contribute
 
 - write me on [![Twitter: @kidrulit](https://img.shields.io/badge/twitter-@kidrulit-4d66b3.svg?style=flat)](https://twitter.com/kidrulit) and I'll add you to contributors on Miendmeister.
-
-
-[The complete contribution guide.](HowTo/HOWTOPR.md)
 
 
 ## ☑️ TODO
