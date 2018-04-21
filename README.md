@@ -8,7 +8,7 @@ So it might contains some mistake. I'll be much appreciated is you'd like to col
 
 
 ## ✌️ Miendmeister version
-The roadmap is available on Miendmeister [https://mm.tt/1048552502?t=9TrRDyiRPv] and also available in .mind format
+The roadmap is available on [Miendmeister] (https://mm.tt/1048552502?t=9TrRDyiRPv) and also available in .mind format
 
 
 ## 🤝 How to contribute
