@@ -1,3 +1,4 @@
+![Header image](header_image.png)
 # 🚀 RL Study Roadmap 
 Roadmap to learn Renfircement Learning in 2018.
 
